@@ -7,3 +7,6 @@ print("Hola Mundo")
 
 print("Se ha modificado el programa")
 
+print("Se modifica para ver los commits")
+
+#Se even los commits en git
