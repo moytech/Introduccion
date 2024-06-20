@@ -9,4 +9,7 @@ print("Se ha modificado el programa")
 
 print("Se modifica para ver los commits")
 
-#Se even los commits en git
+#Se ven los commits en git
+
+print("Se agrega texto después de crear una rama")
+
