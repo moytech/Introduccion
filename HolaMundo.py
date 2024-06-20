@@ -13,3 +13,7 @@ print("Se modifica para ver los commits")
 
 print("Se agrega texto después de crear una rama")
 
+print("Se unio la ramamoi a la master")
+
+#Se eliminó rama ramamoi
+
