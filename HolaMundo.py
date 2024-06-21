@@ -29,4 +29,10 @@ print("Se crea repositorio en github para subir código")
 print("Se crea el archivo readme")
 
 
+#Se ha practicado haciendo push y pull con git y github
+print("Se realizaron push con github")
+
+print("Se realizaron pull con git y github")
+
+
 
