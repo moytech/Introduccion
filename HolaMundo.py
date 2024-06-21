@@ -22,4 +22,11 @@ print("Se unio la ramamoi a la master")
 #Se crea cuenta en github 
 print("Se crea la cuenta en github")
 
+#Se crea un nuevo reporsitorio
+print("Se crea repositorio en github para subir código")
+
+#Se crea el archivo README
+print("Se crea el archivo readme")
+
+
 
