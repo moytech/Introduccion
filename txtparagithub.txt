@@ -1,0 +1,1 @@
+Se crea este txt para subirlo a github y utilizar en ejercicio en git
