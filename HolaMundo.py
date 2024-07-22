@@ -34,5 +34,11 @@ print("Se realizaron push con github")
 
 print("Se realizaron pull con git y github")
 
+print("Se borra carpeta de github.")
+
+print("Se vuelve a crear nueva carpeta en github, para realizar prueba.")
+
+
+
 
 
